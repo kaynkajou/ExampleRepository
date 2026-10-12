@@ -6,7 +6,7 @@ pulic class ExampleCode {
         int[] numbers = new int[SIZE];
 
         //TODO: add some elements to the array bellow
-        
+        numbers[0] = 58;
         
         //TODO: print out each element
         for (int i = 0; i < SIZE; i++) {
